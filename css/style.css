@@ -1,0 +1,62 @@
+/* CSS Document */
+
+
+body {
+    /*background: #f7f7f7;*/
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size:16px;
+}
+
+/* Hyperlinks */
+
+a:link {
+    color: #1772d0;
+    text-decoration: none;
+}/Users/zihan/holistic-3d/iccv19/index.html
+
+a:visited {
+    color: #1772d0;
+    text-decoration: none;
+}
+
+a:active {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f09228;
+    text-decoration: none;
+}
+
+
+/* Schedule */
+
+table.schedule {
+    border-width: 1px;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: #000;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+.instructorphoto img {
+    width: 120px;
+    border-radius: 120px;
+    margin-bottom: 10px;
+}
+
+.instructorphotosmall img {
+    width: 60px;
+    border-radius: 60px;
+    margin-bottom: 10px;
+}
+
+.instructor {
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    margin-right: 20px;
+}
