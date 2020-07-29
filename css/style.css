@@ -42,6 +42,12 @@ table.schedule {
     background-color: white;
 }
 
+.instructorphotolarge img {
+    width: 180px;
+    border-radius: 180px;
+    margin-bottom: 10px;
+}
+
 .instructorphoto img {
     width: 120px;
     border-radius: 120px;
